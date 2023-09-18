@@ -1,0 +1,80 @@
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 20px;
+}
+.num1{
+    margin: 90px;
+    border: 1px solid black;
+      
+}
+.num2{
+    margin: 10px;
+}
+.shadow-box{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.shadow-box1{
+        margin: 10px;
+        width: 10em;
+        height: 15em;
+        border: 1px solid #333;
+        padding: 8px 12px;
+        background-color: #837e7e;
+}
+.shadow-box2{
+    margin: 10px;
+    width: 10em;
+    height: 15em;
+    border: 1px solid #333;
+    padding: 8px 12px;
+    background-color: #837e7e;
+}
+.shadow-box3{
+    margin: 10px;
+    width: 10em;
+    height: 15em;
+    border: 1px solid #333;
+    padding: 8px 12px;
+    background-color: #837e7e;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
